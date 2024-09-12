@@ -2,7 +2,7 @@
 
 Welcome to the Solana Bundler, a script designed to facilitate buying and selling with 85 wallets simultaneously on the Solana blockchain. This powerful tool is perfect for users looking to manage multiple transactions efficiently and effectively.
 
-
+ 
 ## Getting Started
 
 To get started with the Solana Raydium Bundler, follow these steps to ensure a smooth setup and execution process.
